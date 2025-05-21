@@ -1,2 +1,5 @@
 # Hammarlund-Speaker-Grill
-A speaker grill to fit the hole where the clock would have been fitted on Hammarlund HQ series radio
+A speaker grill to cover the clock hole on a Hammarlund HQ series radio
+
+Many of the 1950s/60s Hammarlund HQ series radio receivers like the 100, 110, 145, 170 and 180 came with the option of a 24 hour clock. This was used as an alarm to switch the radio on before a user wished to use it, so it had time to warm up. Many of these clocks seem to have failed and been replaced with a loudspeaker. I actually prefer to have a speaker on a communications receiver so think it is an acceptable modification. However, most seem to be badly implmented. Certainly, in the HQ-145 I bought the speaker grill was a piece of cardboard covered with gaffer taped and hole drilled in it. My HQ-145 deserved better! So I designed and 3D printed a new one. It looks a lot better as shown in the photos. 
+The speaker grill was designed in Blender, so I have included the blender files here along with the STL and gcode. I am happy for people to improve this if they want. An improved version could include the Hammarlund logo on the front, for example. 
